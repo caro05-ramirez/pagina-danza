@@ -1,0 +1,30 @@
+@media  screen and (max-width: 1025px) {
+    
+}
+@media  screen and (max-width: 970px) {
+    main-container{
+        width: 100%;
+    }
+    nav ul li a{
+        padding: 30%;
+    }
+}
+@media  screen and (max-width: 800px) {
+    
+}nav, nav ul{
+    padding: 0;
+}
+nav ul li{
+    text-align: center;
+    width: 100%;
+}
+nav li a{
+    display:block !important;
+}
+@media  screen and (max-width: 600px) {
+    
+
+}
+@media  screen and (max-width: 400px) {
+    
+}
